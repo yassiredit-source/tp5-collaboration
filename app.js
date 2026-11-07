@@ -1,4 +1,4 @@
-// Fonctionnalité 2 : Multiplication et Division
+// Fonctionnalité 2 : Multiplication et Division *(youssef)
 
 function multiplication() {
     let n1 = Number(document.getElementById("nombre1").value);
